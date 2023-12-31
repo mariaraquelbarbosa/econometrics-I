@@ -1,2 +1,2 @@
-# econometrics
- Conteúdo de Econometria I
+# Econometrics I
+ Econometrics I material and exercises
